@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/zex1l.github.io/Marvel-WEB/static/css/main.d405f783.css",
+    "main.js": "/zex1l.github.io/Marvel-WEB/static/js/main.6b534b2a.js",
+    "static/js/825.cbcefdd6.chunk.js": "/zex1l.github.io/Marvel-WEB/static/js/825.cbcefdd6.chunk.js",
+    "static/css/820.aa8d38ae.chunk.css": "/zex1l.github.io/Marvel-WEB/static/css/820.aa8d38ae.chunk.css",
+    "static/js/820.a1a5dec7.chunk.js": "/zex1l.github.io/Marvel-WEB/static/js/820.a1a5dec7.chunk.js",
+    "static/css/682.412c35cf.chunk.css": "/zex1l.github.io/Marvel-WEB/static/css/682.412c35cf.chunk.css",
+    "static/js/682.aa4cc023.chunk.js": "/zex1l.github.io/Marvel-WEB/static/js/682.aa4cc023.chunk.js",
+    "static/css/243.305fb788.chunk.css": "/zex1l.github.io/Marvel-WEB/static/css/243.305fb788.chunk.css",
+    "static/js/243.6a699a31.chunk.js": "/zex1l.github.io/Marvel-WEB/static/js/243.6a699a31.chunk.js",
+    "static/media/vision.png": "/zex1l.github.io/Marvel-WEB/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/zex1l.github.io/Marvel-WEB/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/zex1l.github.io/Marvel-WEB/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/zex1l.github.io/Marvel-WEB/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/zex1l.github.io/Marvel-WEB/static/media/Avengers_logo.9eaf219344d83362e830.png",
+    "index.html": "/zex1l.github.io/Marvel-WEB/index.html",
+    "main.d405f783.css.map": "/zex1l.github.io/Marvel-WEB/static/css/main.d405f783.css.map",
+    "main.6b534b2a.js.map": "/zex1l.github.io/Marvel-WEB/static/js/main.6b534b2a.js.map",
+    "825.cbcefdd6.chunk.js.map": "/zex1l.github.io/Marvel-WEB/static/js/825.cbcefdd6.chunk.js.map",
+    "820.aa8d38ae.chunk.css.map": "/zex1l.github.io/Marvel-WEB/static/css/820.aa8d38ae.chunk.css.map",
+    "820.a1a5dec7.chunk.js.map": "/zex1l.github.io/Marvel-WEB/static/js/820.a1a5dec7.chunk.js.map",
+    "682.412c35cf.chunk.css.map": "/zex1l.github.io/Marvel-WEB/static/css/682.412c35cf.chunk.css.map",
+    "682.aa4cc023.chunk.js.map": "/zex1l.github.io/Marvel-WEB/static/js/682.aa4cc023.chunk.js.map",
+    "243.305fb788.chunk.css.map": "/zex1l.github.io/Marvel-WEB/static/css/243.305fb788.chunk.css.map",
+    "243.6a699a31.chunk.js.map": "/zex1l.github.io/Marvel-WEB/static/js/243.6a699a31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d405f783.css",
+    "static/js/main.6b534b2a.js"
+  ]
+}
