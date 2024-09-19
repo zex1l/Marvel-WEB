@@ -1,12 +1,13 @@
 .comics {
     &__list {
         margin-top: 45px;
+        padding: 50px ;
     }
     &__grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, 225px);
         justify-content: space-between;
-        row-gap: 55px;
+        gap: 55px;
     }
     &__item {
         transition: 0.3s transform;

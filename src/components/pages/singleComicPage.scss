@@ -1,6 +1,7 @@
 @import '../../style/variables.scss';
 
 .single-comic {
+    padding: 0 50px;
     margin-top: 50px;
     display: grid;
     grid-template-columns: 293px 550px auto;

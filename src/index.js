@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-import App from './components/app/App';
+import { RouterProvider } from 'react-router-dom';
+import { router } from './routes/routes';
 
 
 import './style/style.scss';
@@ -11,7 +11,7 @@ import './style/style.scss';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>,
   document.getElementById('root')
 );
